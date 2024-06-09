@@ -1,4 +1,4 @@
-﻿# HealthcarePredictionModel
+﻿# Healthcare Prediction Model
 ## User Guide<br />
 Below is a guide of how to use the model. Please follow the steps below.<br />
 1.	Download the required software.
