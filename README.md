@@ -1,5 +1,5 @@
 ﻿# HealthcarePredictionModel
-User Guide<br />
+## User Guide<br />
 Below is a guide of how to use the model. Please follow the steps below.<br />
 1.	Download the required software.
   a.	To be able to run the application, you will need to download an application called Anaconda Navigator to be able to run the program. I will put a link below explaining how to download it. Please follow the steps in the link installing the program. <br />
