@@ -17,9 +17,10 @@ Below is a guide of how to use the model. Please follow the steps below.<br />
 
 c.	After selecting Jupyter Notebook you will be able to see all the files on your computer and navigate to the folder you downloaded the files into and open HealthCareCostPredictionModel.ipynb as seen in 4d. <br />
 
-d.	 
+d.	 ![image](https://github.com/jaypowellcs/HealthcarePredictionModel/assets/60851811/a9294310-9021-497b-83a4-78f3a536d30a)<br />
 
-5.	After the file is open, follow the instructions that are included on the top of each command, by pressing shift and enter at the same time.
-6.	To make a prediction based on the model, navigate to section 2 of HealthCareCostPredictionModel.ipynb and input the data of the customer that you would like to predict their healthcare costs. I have included an example below in 6a. 
-a.	 
+**5.	After the file is open, follow the instructions that are included on the top of each command, by pressing shift and enter at the same time.**<br />
+**6.	To make a prediction based on the model, navigate to section 2 of HealthCareCostPredictionModel.ipynb and input the data of the customer that you would like to predict their healthcare costs. I have included an example below in 6a. **<br />
+a.	 ![image](https://github.com/jaypowellcs/HealthcarePredictionModel/assets/60851811/93e65dff-bdc9-4f64-b8f0-cfc2fa0da878)<br />
+
  
