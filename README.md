@@ -6,7 +6,7 @@ Below is a guide of how to use the model. Please follow the steps below.<br />
   &emsp;b.	https://docs.anaconda.com/free/anaconda/install/windows/<br />
 **2.	After you have downloaded the software, you will need to put two files in a folder on your computer. There are two methods of obtaining the files.**<br />
   &emsp;a.	GitHub – the files are hosted on GitHub, and you can download straight from the link below.<br />
-  &emsp;i.	Link to GitHub: https://github.com/jaypowellcs/HealthcarePredictionModel<br />
+  &emsp;  &emsp;i.	Link to GitHub: https://github.com/jaypowellcs/HealthcarePredictionModel<br />
   &emsp;b.	The files will also be submitted to the client and can be manually downloaded. <br />
 **3.	The files needed are:** <br />
    &emsp;a.	HealthCareCostPredictionModel.ipynb<br />
