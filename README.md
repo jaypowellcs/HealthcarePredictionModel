@@ -1,10 +1,10 @@
 ﻿# Healthcare Prediction Model
 ## User Guide<br />
 Below is a guide of how to use the model. Please follow the steps below.<br />
-1.	Download the required software.<br />
+1.	**Download the required software.**<br />
   &emsp;a.	To be able to run the application, you will need to download an application called Anaconda Navigator to be able to run the program. I will put a link below explaining how to download it. Please follow the steps in the link installing the program. <br />
   &emsp;b.	https://docs.anaconda.com/free/anaconda/install/windows/<br />
-2.	After you have downloaded the software, you will need to put two files in a folder on your computer. There are two methods of obtaining the files.<br />
+**2.	After you have downloaded the software, you will need to put two files in a folder on your computer. There are two methods of obtaining the files.**<br />
   &emsp;a.	GitHub – the files are hosted on GitHub, and you can download straight from the link below.<br />
     &emsp;i.	Link to GitHub: https://github.com/jaypowellcs/HealthcarePredictionModel<br />
   b.	The files will also be submitted to the client and can be manually downloaded. <br />
